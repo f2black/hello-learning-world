@@ -1,2 +1,6 @@
-# hello-learning-world
-just practice to learn some new programming language
+# Hello World
+
+Just practice to learn some new programming language:
+
+- calculate program by python
+- running in the jupyter notebook
