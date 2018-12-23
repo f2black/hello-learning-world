@@ -1,6 +1,6 @@
 # Hello World
 
-Just practice to learn some new programming language:
+Just practice to learn new programming languages:
 
-- calculate program written by python
+- a calculate program written by python
 - running in the jupyter notebook
