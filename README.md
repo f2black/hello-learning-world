@@ -2,5 +2,5 @@
 
 Just practice to learn new programming languages:
 
-- a calculate program written by python
+- some codes written by python
 - running in the jupyter notebook
